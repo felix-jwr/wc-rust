@@ -21,7 +21,7 @@ target
 #.idea/
 
 # Ignore lockfile
-./Cargo.lock
+Cargo.lock
 
 # Added by cargo
 
